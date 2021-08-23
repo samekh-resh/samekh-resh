@@ -3,7 +3,7 @@
 <p> In my freetime, I love hiking and knitting. I haven't knitted a full sweater or socks yet, but I do love making a good scarf. Socks are next! I love taking off my shoes, letting my feet hit the bare ground and just existing on the planet like a flower for a bit. Reading is essential and such a good relaxer. Deep diving in water or bivouac in a forest.</p>
 
 
-<p>  am reachable on twitter, linkedin and github and twitch! Please be patient,as I will be adding them in the near future. I look forward to coding and chatting with you all. </p>
+<p> I am reachable on twitter, linkedin and github and twitch! Please be patient,as I will be adding them in the near future. I look forward to coding and chatting with you all. </p>
 
 <!---
 samekh-resh/samekh-resh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
