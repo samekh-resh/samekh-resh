@@ -5,7 +5,7 @@ software developer by trade.</p>
 <p>Heavily interested in the intersection between entertainment, art, programming and therapy.</p>
 
 
-<p> I am reachable on <a href='https://twitter.com/SamekhResh'>twitter<a>, linkedin and github and twitch.</p>
+<p> I am reachable on <a href='https://twitter.com/SamekhResh'>twitter<a>, <a href='https://www.linkedin.com/in/samekh-resh-961494105/'>linkedin<a> and schedule time with me @<a href='https://calendly.com/samekh-resh'>calendly<a>.</p>
 
 <!---
 samekh-resh/samekh-resh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
