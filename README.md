@@ -4,7 +4,7 @@ software developer by trade.</p>
 
 <p>Heavily interested in the intersection between entertainment, art, programming and therapy.</p>
 
-<p> Here is my <a href='https://samekh-portfolio.netlify.app/'>portfolio<a>.</p>
+<p> Here is my <a href='https://samekhsource.netlify.app/'>portfolio<a>.</p>
 
 <p> I am reachable on <a href='https://twitter.com/SamekhResh'>twitter<a>, <a href='https://www.linkedin.com/in/samekh-resh-961494105/'>linkedin<a> and you can schedule time with me on <a href='https://calendly.com/samekh-resh'>calendly<a>.</p>
 
