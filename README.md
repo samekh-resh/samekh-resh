@@ -1,6 +1,7 @@
 <h1>s.ame.kh</h1>
 <p>artistic creative by blood. 
 software developer by trade.</p>
+<p>SWE @ Resilient Coders </p>
 
 <p>Heavily interested in the intersection between entertainment, art, programming and therapy.</p>
 
